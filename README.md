@@ -1,4 +1,4 @@
-# APp To test friendship using jetpack compose
+# App to test friendship using jetpack compose
 
 <h4> Screens </h4>
 
