@@ -24,6 +24,6 @@
   <tr>
     <td><img src="./screenshots/d.png" width=270 height=480></td>
     <td><img src="./screenshots/e.png" width=270 height=480></td>
-    <td><img src="./screenshots/" width=270 height=480></td>
+    <td></td>
   </tr>
  </table>
