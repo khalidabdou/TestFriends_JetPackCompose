@@ -1,4 +1,4 @@
-# TestFriends_JetPackCompose
+# APp To test friendship using jetpack compose
 
 <h4> Screens </h4>
 
